@@ -1,0 +1,19 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^11.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "description": "<img      src=\"https://raw.githubusercontent.com/alamorre/nextjs-chat-app/main/assets/nextjs-chat-tutorial.png\"      width=\"75%\"      height=\"100%\" />",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
