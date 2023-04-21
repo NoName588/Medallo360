@@ -1,0 +1,8 @@
+POST http://localhost:3001/Authorizate
+
+Content-Type: application/json
+
+{
+    "username": "adam_la_morre",
+    "secret": "pass1234"
+}
